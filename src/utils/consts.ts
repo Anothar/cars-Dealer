@@ -1,0 +1,1 @@
+export const years = [...new Array(2025 - 2015 + 1)].map((_, i) => 2015 + i);
