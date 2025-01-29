@@ -10,7 +10,7 @@ A simple car app built with Next.js, TypeScript and Tailwind CSS. The progect us
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/Anothar/cars-Dealer.git
 ```
 
 2. Install dependencies (npm):
@@ -41,7 +41,7 @@ yarn dev
 1. Clone the repository:
 
 ```bash
-git clone 
+git clone https://github.com/Anothar/cars-Dealer.git
 ```
 
 2. Install dependencies (npm):
